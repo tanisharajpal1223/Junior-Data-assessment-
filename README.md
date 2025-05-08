@@ -16,7 +16,7 @@ Setup Instructions
 Part 1: Database & Backend Setup
 Clone the Repository:
 Clone the repository to your local machine:
-git clone https://github.com/tanisharajpal1223/healthcare-data-science.git
+git clone https://github.com/tanisharajpal1223/Junior-Data-assessment.git
 cd healthcare-data-science
 Set Up the Database:
 You need a MySQL database to store the patient data. Create a new database (e.g., hospital_db) and configure your MySQL connection.
